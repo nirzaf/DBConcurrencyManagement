@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+YGJONNxRFKGrF77FIyhQy9J2hdTHfVTLGAkCYjXfWs=",
+  "Source": "DBConcurrencyManagement",
+  "BasePath": "_content/DBConcurrencyManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
